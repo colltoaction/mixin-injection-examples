@@ -1,0 +1,9 @@
+rootProject.name = 'di-demo'
+include 'di-fwk'
+include 'demo1'
+include 'coffeemaker'
+include 'coffeemaker-drip'
+include 'coffeemaker-espresso'
+include 'demo2'
+include 'television-basic'
+
